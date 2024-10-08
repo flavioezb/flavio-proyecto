@@ -1,2 +1,0 @@
-# flavio-proyecto
-diplo fullstack
